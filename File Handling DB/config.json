@@ -1,0 +1,8 @@
+{
+	"dbconfig": {
+		"dbname": "salesorder",
+		"server": "localhost",
+		"username": "postgres",
+		"password": "123Welcome"
+	}	
+}
